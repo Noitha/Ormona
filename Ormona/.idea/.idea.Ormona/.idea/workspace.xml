@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80ee3006-4d1e-45ae-9c61-7868ffd9f2f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/EntityDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Planet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Chunk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Axis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/DiagonalHalfQuadDirection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Direction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Generation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/ChunkEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/RampDirection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/TriangleOrigin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/SceneChunk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Meshes/MeshCreation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Meshes/MeshDefinition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/EntityGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/SolidEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/Meshes/HalfQuadMeshDefinition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Scripts/DataToPersist.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/EntityPattern.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Scripts/InputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/MeshAndTransformation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/MeshData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/BaseEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/BuildType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ormona/Planets/CombineMeshes.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Ormona/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Scripts/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Scripts/DataToPersist.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/MeshTesting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/MeshData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/MeshAndTransformation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/EntityPattern.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/EntityGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/CombineMeshes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/BuildType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/BaseEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/TriangleOrigin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/SceneChunk.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/RampDirection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/MeshSize.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Generation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/EntityDatabase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Direction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/DiagonalHalfQuadDirection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/ChunkEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Axis.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Meshes/MeshDefinition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Meshes/HalfQuadMeshDefinition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/SolidEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ormona/Planets/Scripts/Chunk.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X1a6qz6vYqGS4r2wcdWo7iTiX4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80ee3006-4d1e-45ae-9c61-7868ffd9f2f2" name="Default Changelist" comment="" />
+      <created>1580215883199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580215883199</updated>
+      <workItem from="1580215889374" duration="2035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+</project>
